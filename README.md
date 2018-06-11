@@ -12,6 +12,7 @@ AND FINALLY IT SHOWS WHAT YOU SPOKE....
 <ul>
 <li>Install Ubuntu 16.04, ------https://www.ubuntu.com/download/desktop</li>
 <li>Install Python 2.7.14, -----https://www.python.org/downloads/</li>
+  <li> Now open your terminal or cmd installed on your system</li>
 <li>Install Python PIP command. -----python get-pip.py</li>
 <li>PyAdudio package-- -----$ pip install pyaudio</li>
 <li>Speech recognition,  -----pip install SpeechRecognition</li>
@@ -20,6 +21,13 @@ AND FINALLY IT SHOWS WHAT YOU SPOKE....
 <li>Install Google Natural Language API client, $ ------pip install --upgrade google-cloud-language</li>
 <li>Authenticating to the Cloud Speech API, $ export GOOGLE_APPLICATION_CREDENTIALS=PATH_TO_KEY_FILE,-----https://drive.google.com/open?id=1pPVFnxAnSUAFejaKEOWjO_iUyReld46E </li>
 
+  </ul>
+  
+  
+  # POINTS TO REMEMBER
+  <ul>
+  <li>To execute the program .py file must be in current working directory. so firstly change your working Directory by --------cd (current working directory)</li>
+  <li>MICROPHONE MUST BE WORKING IN THE SYSTEM</li>
   </ul>
   
   # Some Additions(OPTIONAL)
