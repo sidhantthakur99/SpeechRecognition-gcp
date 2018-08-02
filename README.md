@@ -14,7 +14,7 @@ AND FINALLY IT SHOWS WHAT YOU SPOKE....
 <li>Install Python 2.7.14, -----https://www.python.org/downloads/</li>
   <li> Now open your terminal or cmd installed on your system</li>
 <li>Install Python PIP command. -----python get-pip.py</li>
-<li>PyAdudio package-- -----$ pip install pyaudio</li>
+<li>PyAudio package-- -----$ pip install pyaudio</li>
 <li>Speech recognition,  -----pip install SpeechRecognition</li>
 <li>Pocketsphinx package-- <mark>$ ----pip install pocketsphinx</mark></li>
 <li>Install Google Speech API client, $ ----pip install --upgrade google-cloud-speech</li>
