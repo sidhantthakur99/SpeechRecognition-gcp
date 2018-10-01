@@ -27,7 +27,7 @@ AND FINALLY IT SHOWS WHAT YOU SPOKE....
   # POINTS TO REMEMBER
   <ul>
   <li>To execute the program .py file must be in current working directory. so firstly change your working Directory by --------cd (current working directory)</li>
-  <li>MICROPHONE MUST BE WORKING IN THE SYSTEM</li>
+  <li>MICROPHONE MUST BE WORKING IN THE Current SYSTEM</li>
   </ul>
   
   # Some Additions(OPTIONAL)
